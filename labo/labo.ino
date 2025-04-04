@@ -27,8 +27,6 @@ char lcdBuff[2][16] = {
   "                "
 };
 
-char serialBuff[50];
-
 unsigned long current_time = 0;
 
 int distance;
